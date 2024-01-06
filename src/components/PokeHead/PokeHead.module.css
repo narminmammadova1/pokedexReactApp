@@ -1,0 +1,10 @@
+.title{
+    color: brown;
+    font-weight: 900;
+}
+
+.head{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
